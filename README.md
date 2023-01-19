@@ -1,13 +1,10 @@
-## Douglas Figueiró
+<h2 align="center">Douglas Figueiró</h2>
 
-<table border="0">
- <tr>
-    <td><a href="https://github.com/fig4ro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fig4ro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fig4ro&layout=compact&langs_count=6&theme=gruvbox"/>
- </td>
- </tr>
-</table>
+***Na alegria e na tristeza***: GNU/Linux, inicialmente Ubuntu e hoje ArchLinux.
+ > *O fato de poder ter tanto a liberdade como a responsabilidade sobre o que deseja, me direciona nesta decisao*.
+
+Estou no processo de estudo para back-end e por curiosidade mobile - amplas aplicações me atraem.<br>
+Integrar plataformas de uso comum com o intuito de torna-las mais praticas, seja automatizando ou criando novos processos.
 
 <!-- Icones -->
 <div style="display: inline_block" align="center"><br>
@@ -17,8 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height=32 width=32 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height=32 width=32 />      
 </div>
- 
- <br>
+
+<hr/>
+
+<div>
+  <a href="https://github.com/fig4ro">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=fig4ro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fig4ro&layout=compact&langs_count=6&theme=gruvbox" />
+</div>
 
 <!-- ### Hi there 👋 -->
 
