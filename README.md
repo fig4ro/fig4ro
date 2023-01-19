@@ -3,8 +3,8 @@
 ***Na alegria e na tristeza***: GNU/Linux, inicialmente Ubuntu e hoje ArchLinux.
  > *O fato de poder ter tanto a liberdade como a responsabilidade sobre o que deseja, me direciona nesta decisao*.
 
-Estou no processo de estudo para back-end e por curiosidade mobile - amplas aplicações me atraem.<br>
-Integrar plataformas de uso comum com o intuito de torna-las mais praticas, seja automatizando ou criando novos processos.
+ Estou no processo de estudo para back-end e por curiosidade mobile - amplas aplicações me atraem.<br>
+ Integrar plataformas de uso comum com o intuito de torna-las mais praticas, seja automatizando ou criando novos processos.
 
 <!-- Icones -->
 <div style="display: inline_block" align="center"><br>
