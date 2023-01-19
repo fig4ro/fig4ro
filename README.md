@@ -17,10 +17,10 @@ Integrar plataformas de uso comum com o intuito de torna-las mais praticas, seja
 
 <hr/>
 
-<div>
+<div align="center">
   <a href="https://github.com/fig4ro">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=fig4ro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fig4ro&layout=compact&langs_count=6&theme=gruvbox" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fig4ro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" /> <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fig4ro&layout=compact&langs_count=6&theme=gruvbox" />
 </div>
 
 <!-- ### Hi there 👋 -->
