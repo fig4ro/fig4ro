@@ -20,9 +20,7 @@
 <div align="center">
   <a href="https://github.com/fig4ro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fig4ro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" /> <br>
-  <!--
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fig4ro&theme=gruvbox&langs_count=6&layout=compact" />
-  -->
 </div>
 
  
